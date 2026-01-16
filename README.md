@@ -35,7 +35,7 @@ Technologies:
 ---
 
 ## What I’m Working On Next
-- Distributed Task Sharing System in C++
+- [Distributed Task Sharing System in C++](https://github.com/joshopp/task_scheduler)
 - Building a GPT from scratch
 
 ---
