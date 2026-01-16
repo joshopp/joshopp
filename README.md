@@ -35,6 +35,7 @@ Technologies:
 ---
 
 ## What I’m Working On Next
+- Distributed Task Sharing System in C++
 - Building a GPT from scratch
 
 ---
